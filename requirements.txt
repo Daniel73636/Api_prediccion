@@ -1,7 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 fastapi[all]
 sqlalchemy
 aiomysql
 pymysql
-torch
+torch==2.7.1+cpu
 pandas
 joblib
