@@ -1,0 +1,7 @@
+fastapi[all]
+sqlalchemy
+aiomysql
+pymysql
+torch
+pandas
+joblib

@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de configuración del sistema
+*.log
+*.pyc
+__pycache__/
+
+# Configuración de entorno
+.env
+
+# Otros
+.DS_Store
+.idea/
+.vscode/
